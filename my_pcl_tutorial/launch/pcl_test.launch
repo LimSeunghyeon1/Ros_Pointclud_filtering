@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<launch>
+   <node pkg="my_pcl_tutorial" type="example" name="example">
+   </node>
+   <node pkg="my_pcl_tutorial" type="outlier_removal" name="outlier_removal"/>
+   <node pkg="my_pcl_tutorial" type="ransac" name="ransac" />
+   <node pkg="my_pcl_tutorial" type="pointcloud_conversion" name="pointcloud_conversion" />
+   <!--node pkg="my_pcl_tutorial" type="keyboard" name="keyboard" output="screen"/-->
+   <node pkg="my_pcl_tutorial" type="lidar_logging" name="lidar_logging" output="screen"/>
+</launch> 
+
+
+

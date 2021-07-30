@@ -1,0 +1,41 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/dji/catkin_ws/devel/include",
+                "/opt/ros/kinetic/include",
+                "/home/dji/catkin_ws/src/navigation-kinetic-devel/amcl/include",
+                "/home/dji/catkin_ws/src/navigation-kinetic-devel/base_local_planner/include",
+                "/home/dji/catkin_ws/src/navigation-kinetic-devel/carrot_planner/include",
+                "/home/dji/catkin_ws/src/navigation-kinetic-devel/clear_costmap_recovery/include",
+                "/home/dji/catkin_ws/src/navigation-kinetic-devel/costmap_2d/include",
+                "/home/dji/catkin_ws/src/cyglidar_d1/include",
+                "/home/dji/catkin_ws/src/Onboard-SDK-ROS/include",
+                "/home/dji/catkin_ws/src/navigation-kinetic-devel/dwa_local_planner/include",
+                "/home/dji/catkin_ws/src/navigation-kinetic-devel/global_planner/include",
+                "/home/dji/catkin_ws/src/gps_umd/gps_common/include",
+                "/home/dji/catkin_ws/src/navigation-kinetic-devel/map_server/include",
+                "/home/dji/catkin_ws/src/navigation-kinetic-devel/move_base/include",
+                "/home/dji/catkin_ws/src/navigation-kinetic-devel/move_slow_and_clear/include",
+                "/home/dji/catkin_ws/src/my_pcl_tutorial/include",
+                "/home/dji/catkin_ws/src/navigation-kinetic-devel/nav_core/include",
+                "/home/dji/catkin_ws/src/navigation-kinetic-devel/navfn/include",
+                "/home/dji/catkin_ws/src/navigation-kinetic-devel/robot_pose_ekf/include",
+                "/home/dji/catkin_ws/src/navigation-kinetic-devel/rotate_recovery/include",
+                "/home/dji/catkin_ws/src/vm_basic_flight/include",
+                "/home/dji/catkin_ws/src/navigation-kinetic-devel/voxel_grid/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "linux-gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++98"
+        }
+    ],
+    "version": 4
+}
